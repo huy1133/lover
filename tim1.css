@@ -1,0 +1,46 @@
+body{
+    background-color: lightblue;
+}
+.d0{
+    margin: auto;
+    height: 200px;
+    width: 600px;
+}
+.d1{
+    
+    margin: auto;
+    height: 200px;
+    width: 600px;
+    background-color:antiquewhite;
+    border-radius: 100px ;
+}
+.d11{
+    height: 10px;
+    margin: auto;
+   width: 400px;
+}
+.d12{
+    margin: 50px 0;
+    width: 100%;
+   
+}
+button{
+    
+    width: 100px;
+    height: 35px;
+    border-radius: 20px;
+}
+.b1{
+    float: left;
+    margin-left:140px ;
+}
+.b2{
+    float: right;
+    margin-right:140px ;
+}
+.b1:hover, .b2:hover{
+    background-color: lightblue;
+}
+.b1:hover{
+    display: none;
+}
